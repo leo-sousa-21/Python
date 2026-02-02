@@ -1,0 +1,12 @@
+Algoritmo Total_produto;
+Variável num1: real;
+num2: real;
+media: real;
+Início
+Escrever ("Digite um número");
+Ler (num1);
+Escrever ("Digite outro número");
+Ler (num2) ;
+media=(num1 + num2)/2;
+Escrever ("O valor da média entre o número ",num1, "e ", num2, " é ",media);
+Fim.
